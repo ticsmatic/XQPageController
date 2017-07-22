@@ -22,7 +22,7 @@ See `XQPageControllerDemo.xcworkspace`
 usage
 ==============
 
-### Drag XQPageController into your project 
+Drag XQPageController into your project 
 
 1. It need <Masory> and <YYCategories> to support.
 2. if you want, you don't need  <Masory> and <YYCategories>, its not difficult, its a syntactic sugar
@@ -47,7 +47,9 @@ XQPageController is provided under the MIT license. See LICENSE file for details
 中文介绍
 ==============
 1.本组件主要是用于文章浏览类page方式的浏览、频道订阅、也可以用于tableView且套tableView，其中的悬停效果
+
 2.主要使用了继承的方式实现，但是为了简化代码，以及方便使用者阅读和修改，我并没有严格遵守继承的常规使用方式，使用详情见Demo
+
 3.依赖了Masory、YYCategories两个组件，其中Masory在tableView嵌套tableView中使用（主要是为了修改控制器的大小，使用frame方式也是可以的，但是此时要比约束的方式略微啰嗦一点），其它地方没有使用。YYCategories主要使用了它的语法糖，不喜欢的话，你也可以很方便的把它替换掉
 
 最后
