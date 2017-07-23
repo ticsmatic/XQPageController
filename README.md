@@ -24,8 +24,8 @@ usage
 
 Drag XQPageController into your project 
 
-1. It need <Masory> and <YYCategories> to support.
-2. if you want, you don't need  <Masory> and <YYCategories>, its not difficult, its a syntactic sugar
+1. It need Masory and YYCategories to support.
+2. if you want, you don't need  Masory and YYCategories, its not difficult, its a syntactic sugar
 3. run.
 
 
