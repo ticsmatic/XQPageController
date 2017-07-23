@@ -55,5 +55,5 @@ XQPageController is provided under the MIT license. See LICENSE file for details
 最后
 ==============
 如果对您有帮助，请不要吝啬您的star，感谢！
-有什么好的意见或者建议请大胆的提出来，比如说我爱用蹩脚的英文装个那啥
+有什么好的意见或者建议请提出来
 
