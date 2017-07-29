@@ -5,7 +5,7 @@ XQPageController
 [![Build Status](https://travis-ci.org/ibireme/YYKit.svg?branch=master)](https://travis-ci.org/ibireme/YYKit)
 
 
-XQPageController is userd for page style change, used in news app, a controler whitch another  page, magbe UITableView in UITableView, and have the style of sticky. welcome to your star, thanks   
+XQPageController is userd for page style change, used in news app, a controler whitch another  page, magbe UITableView in UITableView, and have the style of sticky. welcome to your star, ✨✨✨✨✨✨ thanks   
 
 
 Demo Project
